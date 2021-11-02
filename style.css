@@ -1,0 +1,12 @@
+main{
+    background-color: aquamarine;
+}
+.container{
+    display:flex;
+    flex-wrap: wrap;
+    width: 1180px;
+    margin: 100px auto;
+}
+.box{
+    border: 1px solid black;
+}
